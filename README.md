@@ -1,3 +1,3 @@
-# stupendousgal22.github.io
+# My Blog Page
 
 This is a repo for my blog.
